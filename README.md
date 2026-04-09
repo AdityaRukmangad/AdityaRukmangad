@@ -7,16 +7,16 @@
 - 🎓 Data Science Student  
 - 🤖 Passionate about AI, ML & building intelligent systems  
 - 🧠 Currently working on **DocuMind AI** (RAG-based documentation system)  
-- ⚡ Love solving DSA + building real-world projects  
+- ⚡ Strong focus on DSA + real-world AI systems  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://instagram.com/adityarxmangad" target="blank">
+<a href="https://instagram.com/adityarxmangad" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/adityarukmangad11/" target="blank">
+<a href="https://www.linkedin.com/in/adityarukmangad11/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -35,9 +35,9 @@
 ### 🧠 DocuMind AI
 > AI-powered documentation generator using RAG (Retrieval-Augmented Generation)
 
-- 🔍 Extracts knowledge from codebases
-- 📄 Generates structured documentation automatically
-- ⚡ Built using LLMs + FastAPI + Vector DB
+- 🔍 Extracts knowledge from codebases  
+- 📄 Generates structured documentation automatically  
+- ⚡ Built with FastAPI, LLMs & vector databases  
 
 ---
 
@@ -56,23 +56,23 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaRukmangad&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRukmangad&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🔥 Current Focus
-- 🧠 Building AI systems using RAG
-- 📊 Strengthening Data Structures & Algorithms
-- ⚙️ Backend + ML system design
-- 🚀 Scaling real-world AI applications
+- 🧠 Building AI systems using RAG  
+- 📊 Strengthening Data Structures & Algorithms  
+- ⚙️ Backend + ML system design  
+- 🚀 Scaling real-world AI applications  
 
 ---
 
-## 💡 Fun Fact
-> I turn coffee ☕ into scalable AI systems 🤖
 
----
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=AdityaRukmangad&icon=0&color=0"/>
